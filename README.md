@@ -1,5 +1,5 @@
-# microtik
-backup for microtik config
+# mikrotik
+backup configuration for mikrotik ac2 router 
 
 Config overview
 * 4 SSID configurations (regular 5, iot 2.4, server 5, vpn 5)
